@@ -1,0 +1,8 @@
+1、招商生产业务
+172.16.54.74 
+端口5433
+账号postgres 密码suneeedba
+2、招商公共
+172.16.53.13
+端口5434
+账号postgres 密码suneeedba
